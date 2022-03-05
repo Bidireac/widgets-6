@@ -9,7 +9,8 @@ import {
 } from './actions';
 import reducer from './reducer';
 
-export const API_ENDPOINT = `https://www.omdbapi.com/?apikey=${process.env.REACT_APP_MOVIE_API_KEY}`;
+const apiKey = 'c18cb806';
+export const API_ENDPOINT = `https://www.omdbapi.com/?apikey=${apiKey}`;
 const APIENDPOINT = 'https://hn.algolia.com/api/v1/search?';
 
 const initialState = {
