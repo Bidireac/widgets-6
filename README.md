@@ -25,4 +25,4 @@ Project is:  _finished
 
 ## Live Demo
 
-https://razvan-widgets-5.herokuapp.com/
+https://razvan-widgets-6.herokuapp.com/movies
